@@ -1,0 +1,101 @@
+[
+  {
+    "playername": "Shakib Al Hasan",
+    "playerimg": "https://example.com/shakib-al-hasan.jpg",
+    "origin": "Bangladesh",
+    "playerteam": "Bangladesh",
+    "bowling_stry": "Left-arm orthodox",
+    "batting_style": "Left-handed",
+    "price": 1200000
+  },
+  {
+    "playername": "Virat Kohli",
+    "playerimg": "https://example.com/virat-kohli.jpg",
+    "origin": "India",
+    "playerteam": "India",
+    "bowling_stry": "Right-arm medium",
+    "batting_style": "Right-handed",
+    "price": 1500000
+  },
+  {
+    "playername": "Babar Azam",
+    "playerimg": "https://example.com/babar-azam.jpg",
+    "origin": "Pakistan",
+    "playerteam": "Pakistan",
+    "bowling_stry": "Right-arm off break",
+    "batting_style": "Right-handed",
+    "price": 1400000
+  },
+  {
+    "playername": "Joe Root",
+    "playerimg": "https://example.com/joe-root.jpg",
+    "origin": "England",
+    "playerteam": "England",
+    "bowling_stry": "Right-arm off break",
+    "batting_style": "Right-handed",
+    "price": 1300000
+  },
+  {
+    "playername": "Rohit Sharma",
+    "playerimg": "https://example.com/rohit-sharma.jpg",
+    "origin": "India",
+    "playerteam": "India",
+    "bowling_stry": "Right-arm off break",
+    "batting_style": "Right-handed",
+    "price": 1450000
+  },
+  {
+    "playername": "Kane Williamson",
+    "playerimg": "https://example.com/kane-williamson.jpg",
+    "origin": "New Zealand",
+    "playerteam": "New Zealand",
+    "bowling_stry": "Right-arm off break",
+    "batting_style": "Right-handed",
+    "price": 1250000
+  },
+  {
+    "playername": "Ben Stokes",
+    "playerimg": "https://example.com/ben-stokes.jpg",
+    "origin": "England",
+    "playerteam": "England",
+    "bowling_stry": "Right-arm fast-medium",
+    "batting_style": "Left-handed",
+    "price": 1350000
+  },
+  {
+    "playername": "Jasprit Bumrah",
+    "playerimg": "https://example.com/jasprit-bumrah.jpg",
+    "origin": "India",
+    "playerteam": "India",
+    "bowling_stry": "Right-arm fast",
+    "batting_style": "Right-handed",
+    "price": 1100000
+  },
+  {
+    "playername": "Travis Head",
+    "playerimg": "https://example.com/travis-head.jpg",
+    "origin": "Australia",
+    "playerteam": "Australia",
+    "bowling_stry": "Right-arm off break",
+    "batting_style": "Left-handed",
+    "price": 1150000
+  },
+  {
+    "playername": "Rashid Khan",
+    "playerimg": "https://example.com/rashid-khan.jpg",
+    "origin": "Afghanistan",
+    "playerteam": "Afghanistan",
+    "bowling_stry": "Right-arm leg break",
+    "batting_style": "Right-handed",
+    "price": 1000000
+  },
+  {
+    "playername": "Kagiso Rabada",
+    "playerimg": "https://example.com/kagiso-rabada.jpg",
+    "origin": "South Africa",
+    "playerteam": "South Africa",
+    "bowling_stry": "Right-arm fast",
+    "batting_style": "Right-handed",
+    "price": 1050000
+  }
+]
